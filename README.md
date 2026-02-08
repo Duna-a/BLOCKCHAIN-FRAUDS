@@ -8,10 +8,6 @@ A powerful Python tool to search for cryptocurrency tokens across **major blockc
 
 ## ✨ Features
 
-### 🎯 Smart Filtering
-- **Exact Match Search** - Only shows tokens that contain your search term in name or symbol
-- **No False Positives** - Filters out unrelated results automatically
-- **Multi-Platform** - Searches 7+ platforms simultaneously
 
 ### 📊 Comprehensive Token Data
 - ✅ **Token Metadata** - Name, symbol, contract address, decimals
